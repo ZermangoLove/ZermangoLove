@@ -49,6 +49,19 @@
 
 ---
 
+## ✍️ Chia sẻ & Đóng góp
+Tôi không chỉ làm dự án cá nhân mà còn chia sẻ nhiều kiến thức về bảo mật và lập trình để hỗ trợ cộng đồng:  
+
+- 🔒 **Bảo mật Source Code .NET với VaultVM (C#)**  
+  👉 [Xem bài viết trên Lập Trình VB](https://laptrinhvb.net/bai-viet/chuyen-de-csharp/---Csharp----Bao-mat-source-code--NET-su-dung-VaultVM-Tool-/1a50e27caf790f44.html)  
+
+- 📝 Tôi thường viết & chia sẻ kinh nghiệm trong các mảng:  
+  - Reverse Engineering  
+  - Game Security / Bypass  
+  - Full Stack Development  
+
+---
+
 ## 📊 Thống kê GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZermangoLove&show_icons=true&theme=tokyonight" height="165"/>
