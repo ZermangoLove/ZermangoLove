@@ -1,50 +1,55 @@
 <h1 align="center">🔥 Xin chào, Tôi là <span style="color:#ff4c4c">Zermango (Duy Khang)</span></h1>
 <p align="center">
-  <em>"No limits — Tôi đã chạm qua mọi lĩnh vực: Web, App, Game, API, Security, Reverse... Chưa có gì mà tôi chưa từng học!"</em>
+  <em>"No limits — Tôi đã đụng qua mọi lĩnh vực: Web, App, Game, API, Security, Reverse... Chưa có gì mà tôi chưa từng học!"</em>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20Everything-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Reverse%20Engineer-red?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Game%20Modder-green?style=for-the-badge&logo=unity" />
+  <img src="https://img.shields.io/badge/Problem%20Solver-orange?style=for-the-badge&logo=codeforces" />
 </p>
 
 ---
 
 ## ⚡ Về Tôi
-- 👤 **Tên thật:** Phạm Duy Khang (Zermango)  
-- 🌍 **Quê quán:** Bến Tre, Vietnam  
-- 💻 **Kinh nghiệm:** 5+ năm trong lĩnh vực Security, Reverse Engineering & Game Development  
-- 🏆 **Thương hiệu:** Admin & Founder **AuroraVN** — hệ thống tool hỗ trợ Free Fire hàng đầu tại Việt Nam  
-- 🎯 **Cam kết:** An toàn tuyệt đối, tối ưu hiệu suất, hỗ trợ cộng đồng game thủ & dev  
+- 👤 **Tên:** Phạm Duy Khang (aka Zermango)  
+- 🌍 **From:** Bến Tre, Vietnam  
+- 🧠 **Khả năng:** Full Stack, App (PC/Mobile), Game Dev, Reverse Engineering, API, Crack, Unpack Security, DevOps, Cloud …  
+- 💬 **Câu nói:** *“Cái gì tôi cũng chạm qua, chỉ khác nhau ở việc tôi chọn đào sâu tới đâu.”*  
+- 🎯 **Mục tiêu:** Không ngừng thử thách giới hạn của bản thân  
 
 ---
 
-## 🛠️ Kỹ năng & Công nghệ
-- **Ngôn ngữ:** C#, Python, C/C++, Lua, Java, JS/TS, Kotlin, Swift  
+## 🛠️ Bộ Kỹ Năng
+- **Ngôn ngữ:** C#, Python, C/C++, Java, Lua, JS/TS, Swift, Kotlin  
 - **Web/App:** React, Node.js, Django/FastAPI, Flutter, React Native  
-- **Game Dev:** Unity, Unreal Engine, GameGuardian, Cheat Engine  
-- **Reverse/Security:** IDA, Ghidra, x64dbg, OllyDbg, Unpack/Crack, Kernel Dev  
-- **DevOps & Cloud:** GitHub Actions, Docker, Kubernetes, Cloudflare, AWS  
+- **Game Dev:** Unity (C#), Unreal Engine (C++), GameGuardian, Cheat Engine  
+- **Reverse/Security:** IDA, Ghidra, x64dbg, OllyDbg, Packer/Unpacker  
+- **System:** Linux, Windows Kernel, Hooking, Syscalls  
+- **DevOps & Cloud:** Docker, Kubernetes, GitHub Actions, Cloudflare, AWS  
 
 ---
 
-## 🚀 AuroraVN Projects
-- **Aimbot Aurora**: Aimbot Legit, ESP, Aimlock, Teleport, Fake Lag, Stream Mode…  
-- **Bypass UID**: Giả lập PC thành mobile, an toàn, ổn định, nhiều máy cùng lúc  
-- **Bypass XG Team**: Giúp vượt XGTeam, multi-account, ẩn PC detect  
-- **Fix Lag Service**: Tối ưu hiệu suất máy, kết nối nhanh & mượt hơn  
-
-> 🎮 AuroraVN được đánh giá là **thương hiệu số 1 tại Việt Nam** trong mảng hỗ trợ Free Fire với hơn **5 năm kinh nghiệm**.
+### 🚀 Tôi đã từng...
+✅ Làm web, build app mobile/desktop  
+✅ Tạo game, viết tool mod, hack, bypass  
+✅ Crack/unpack bảo mật, nghiên cứu kernel/system  
+✅ Viết API, build CI/CD, deploy Cloud  
+👉 Nói ngắn gọn: **"Full trải nghiệm của dân dev + hacker"**  
 
 ---
 
-## 🌐 Liên hệ
+### 📌 Core Tech (Quick Look)
 <p align="center">
-  <a href="mailto:zermangolove@example.com"><img src="https://img.shields.io/badge/Gmail-zermangolove-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://zermango.com"><img src="https://img.shields.io/badge/Website-zermango.com-black?style=for-the-badge&logo=firefox"></a>
-  <a href="https://facebook.com/khangpcnopro"><img src="https://img.shields.io/badge/Facebook-khangpcnopro-blue?style=for-the-badge&logo=facebook"></a>
-  <a href="https://github.com/ZermangoLove"><img src="https://img.shields.io/badge/GitHub-ZermangoLove-black?style=for-the-badge&logo=github"></a>
-  <a href="https://zalo.me/0393399533"><img src="https://img.shields.io/badge/Zalo-0393399533-lightblue?style=for-the-badge&logo=messenger"></a>
+  <img src="https://skillicons.dev/icons?i=python,cs,cpp,java,js,ts,lua,html,css,react,nodejs,flutter,swift,kotlin,unity,unreal,linux,docker,kubernetes,git,github" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Thống kê GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZermangoLove&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZermangoLove&layout=compact&theme=tokyonight" height="165"/>
@@ -57,5 +62,5 @@
 ---
 
 <p align="center">
-  ⚡ <b>AuroraVN - An toàn tuyệt đối, hiệu suất tối đa, thương hiệu #1 hỗ trợ Free Fire Việt Nam</b> ⚡
+  ⚡ <b>Không cần liệt kê hết – chỉ cần biết rằng tôi "làm được mọi thứ"</b> ⚡
 </p>
