@@ -1,6 +1,6 @@
 <h1 align="center">🔥 Xin chào, Tôi là <span style="color:#ff4c4c">Zermango (Phạm Duy Khang)</span></h1>
 <p align="center">
-  <em>"No limits — Web, App, Game, API, Security, AI... Tôi luôn thử thách giới hạn của mình!"</em>
+  <em>"No limits — Web, App, Game, API, Security, Reverse, AI... Chưa có gì mà tôi chưa từng học!"</em>
 </p>
 
 ---
@@ -21,7 +21,10 @@
 - 🌍 **Đến từ:** Bến Tre, Vietnam  
 - 💼 **Vai trò:** Full Stack Developer • AI Engineer • Game Developer • Reverse Engineer  
 - 💡 **Đặc điểm:** Làm chủ nhiều công nghệ, từ Web/App → Game → Security → AI  
-- 🎯 **Mục tiêu:** Hợp tác cùng các công ty, startup & cá nhân để tạo ra sản phẩm đột phá  
+- 🧠 **Khả năng:** Full Stack, App (PC/Mobile), Game Dev, Reverse Engineering, API, Crack, Unpack Security, DevOps, Cloud, AI …  
+- 💬 **Tôi tin:** *“Thử thách là động lực, kiến thức là sức mạnh.”*  
+- 🎯 **Mục tiêu:** Không ngừng mở rộng giới hạn bản thân  
+
 
 ---
 
