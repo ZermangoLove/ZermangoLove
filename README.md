@@ -16,7 +16,7 @@
 ---
 
 ## 👨‍💻 Giới thiệu
-- 👤 **Tên:** Phạm Duy Khang (aka Zermango)  
+- 👤 **Tên:** Phạm Duy Khang (Zermango)  
 - 🎂 **Sinh năm:** 2006 – Gen Z năng động & sáng tạo  
 - 🌍 **Đến từ:** Bến Tre, Vietnam  
 - 💼 **Vai trò:** Full Stack Developer • AI Engineer • Game Developer • Reverse Engineer  
@@ -27,7 +27,6 @@
 
 ## 🏆 Thành tựu
 - 🚀 **Founder AuroraVN** – Thương hiệu tool Free Fire **Top 1 Việt Nam**  
-- 💸 **Tạo thu nhập >100 triệu VNĐ/tháng** (ở tuổi 2k6) từ AuroraVN & freelancing  
 - 🤝 **Freelancer**: Hợp tác với nhiều cá nhân/doanh nghiệp trong và ngoài nước  
 - 📚 Chia sẻ kiến thức lập trình & bảo mật tại [Lập Trình VB](https://laptrinhvb.net/bai-viet/chuyen-de-csharp/---Csharp----Bao-mat-source-code--NET-su-dung-VaultVM-Tool-/1a50e27caf790f44.html)  
 
