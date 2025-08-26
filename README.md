@@ -1,4 +1,4 @@
-<h1 align="center">🔥 Xin chào, Tôi là <span style="color:#ff4c4c">Zermango (Phạm Duy Khang)</span></h1>
+<h1 align="center">🔥 Xin chào, Tôi là <span style="color:#ff4c4c">Zermango (Duy Khang)</span></h1>
 <p align="center">
   <em>"No limits — Web, App, Game, API, Security, Reverse, AI... Chưa có gì mà tôi chưa từng học!"</em>
 </p>
