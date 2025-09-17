@@ -1,6 +1,6 @@
-<h1 align="center">🔥 Xin chào, Tôi là <span style="color:#ff4c4c">Zermango (Duy Khang)</span></h1>
+<h1 align="center">🔥 Xin chào, tôi là Phạm Duy Khang (Zermango) – Full Stack & AI Engineer</span></h1>
 <p align="center">
-  <em>"No limits — Web, App, Game, API, Security, Reverse, AI... Chưa có gì mà tôi chưa từng học!"</em>
+  <em>"No limits — Web, App, Game, API, Security, Reverse, AI... Tôi thích khám phá mọi thứ"</em>
 </p>
 
 ---
@@ -29,7 +29,7 @@
 ---
 
 ## 🏆 Thành tựu
-- 🚀 **Founder AuroraVN** – Thương hiệu tool Free Fire **Top 1 Việt Nam**  
+- 🚀 **🚀 Founder AuroraVN – phát triển hệ thống tool/game cheat, áp dụng reverse engineering, hỗ trợ cho hàng chục nghìn người dùng.**  
 - 🤝 **Freelancer**: Hợp tác với nhiều cá nhân/doanh nghiệp trong và ngoài nước  
 - 📚 Chia sẻ kiến thức lập trình & bảo mật tại [Lập Trình VB](https://laptrinhvb.net/bai-viet/chuyen-de-csharp/---Csharp----Bao-mat-source-code--NET-su-dung-VaultVM-Tool-/1a50e27caf790f44.html)  
 
@@ -41,8 +41,8 @@
 - **Game Dev:** Unity, Unreal Engine, GameGuardian, Cheat Engine  
 - **AI/ML:** OpenAI API, Gemini, TensorFlow, PyTorch, AI Automation  
 - **Reverse/Security:** IDA, Ghidra, x64dbg, OllyDbg, Unpack/Crack, Kernel Dev  
-- **DevOps & Cloud:** Docker, Kubernetes, GitHub Actions, Cloudflare, AWS  
-
+- **DevOps & Cloud:** Docker, Kubernetes, GitHub Actions, Cloudflare, AWS
+- **Khác:** Reverse Engineering (IDA, x64dbg, Ghidra, Lua), Cloud (AWS, Cloudflare)  
 ---
 
 ### 📌 Core Tech (Quick Look)
@@ -60,9 +60,8 @@
 ---
 
 ## 🤝 Freelancer & Hợp tác
-- Tôi nhận các dự án **freelance tại nhà** (Web/App/Game/Tool/AI).  
-- Ưu tiên: **dự án quốc tế** & **startup Việt Nam**.  
-- Sẵn sàng hợp tác trong vai trò: Developer Full • Security Consultant • AI Engineer.  
+- Nhận freelance & startup project (Web/App/Game/AI/Security)  
+- Sẵn sàng hợp tác: Developer • AI Engineer • Security Consultant
 
 ---
 
@@ -84,10 +83,4 @@
   <a href="https://facebook.com/khangpcnopro"><img src="https://img.shields.io/badge/Facebook-khangpcnopro-blue?style=for-the-badge&logo=facebook"></a>
   <a href="https://github.com/ZermangoLove"><img src="https://img.shields.io/badge/GitHub-ZermangoLove-black?style=for-the-badge&logo=github"></a>
   <a href="https://zalo.me/0393399533"><img src="https://img.shields.io/badge/Zalo-0393399533-lightblue?style=for-the-badge&logo=messenger"></a>
-</p>
-
----
-
-<p align="center">
-  ⚡ <b>AuroraVN – Top 1 VN | Full Stack + AI + Reverse Engineering | Freelancer ready for hire</b> ⚡
 </p>
