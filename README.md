@@ -29,10 +29,10 @@
 ---
 
 ## 🏆 Thành tựu
-- 🚀 **🚀 Founder AuroraVN – phát triển hệ thống tool/game cheat, áp dụng reverse engineering, hỗ trợ cho hàng chục nghìn người dùng.**  
+- **🚀 Founder AuroraVN – phát triển hệ thống tool/game cheat, áp dụng reverse engineering, hỗ trợ cho hàng chục nghìn người dùng.**  
 - 🤝 **Freelancer**: Hợp tác với nhiều cá nhân/doanh nghiệp trong và ngoài nước  
 - 📚 Chia sẻ kiến thức lập trình & bảo mật tại [Lập Trình VB](https://laptrinhvb.net/bai-viet/chuyen-de-csharp/---Csharp----Bao-mat-source-code--NET-su-dung-VaultVM-Tool-/1a50e27caf790f44.html)  
-
+- **Tạo ra app anticheat tcp server (quyền kernel, chống sử dụng cheat, anti hooking, process emulator, process memory, được sử dụng trong các giải đấu của garena**  
 ---
 
 ## 🛠️ Kỹ năng
