@@ -1,4 +1,4 @@
-<h1 align="center">🔥 Xin chào, tôi là Phạm Duy Khang (Zermango) – Full Stack & AI Engineer</span></h1>
+<h1 align="center">🔥 Xin chào, tôi là Duy Khang (Zermango) – Full Stack & AI Engineer</span></h1>
 <p align="center">
   <em>"No limits — Web, App, Game, API, Security, Reverse, AI... Tôi thích khám phá mọi thứ"</em>
 </p>
